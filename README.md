@@ -1,5 +1,7 @@
 # Wazuh Prometheus exporter
 
+> Forked from https://github.com/pyToshka/wazuh-prometheus-exporter
+
 Simple prometheus exporter for Wazuh server
 
 ## System environments
